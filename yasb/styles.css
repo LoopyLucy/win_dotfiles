@@ -6,8 +6,8 @@ For more information about configuration options, please visit the Wiki https://
     --mauve: #cba6f7;
     --red: #f38ba8;
     --yellow: #f9e2af;
-    --blue: #89b4fa;
-    --lavender: #b4befe;
+    --blue: #fa8989;
+    --lavender: #feb4b4;
     --text: #cdd6f4;
     --subtext1: #bac2de;
     --subtext0: #a6adc8;
@@ -19,7 +19,7 @@ For more information about configuration options, please visit the Wiki https://
     --surface0: #282936;
     --base: #1e1e2e;
     /*--crust: rgba(32, 32, 43, 0.92);*/
-    --crust: rgba(48, 45, 71, 1);
+    --crust: rgba(71, 45, 45, 1);
 }
 * {
     font-size: 12px;
