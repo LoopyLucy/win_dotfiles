@@ -3,7 +3,8 @@ A Windows rice intended to make Windows look and act a little more like Linux.
 
 ---
 ## Preview
-todo
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f9f1d518-b1cc-451e-8ba9-c4ae5cdc81d6" />
+
 
 ## Installation
 
@@ -15,6 +16,7 @@ winget install --id=LGUG2Z.komorebi  -e
 ```
 The Yasb and Komorebi config files can be overridden directly with the ones in this repository.
 The Windhawk config files need to be copied into the *Advanced* section of each desired plugin; the important one is the taskbar.
+
 
 
 
